@@ -41,9 +41,3 @@ public class SyntaxEx {
 	}
 	
 }
-
-
-class TestClass
-{
-	
-}
